@@ -1,7 +1,0 @@
-https://apimongo-latest.onrender.com  : api rest mongo 
-# client = MongoClient("mongodb+srv://admin:admin@micluster.gg9in.mongodb.net/") mongo atlas
-
-https://hub.docker.com/repositories/jrldev
-
-https://apisqlupdate.onrender.com : api rest sql
-https://github.com/jhocoder/ejercicionginx
